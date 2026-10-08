@@ -51,5 +51,5 @@ I recommend that ZoomRide invests in Lagos, which made ₦218,890 from 93 comple
 Some completed trips have no fare recorded, so the revenue is slightly understated.
 
 ## Files
-- `zoomride_eniola.sql`: setup script and all my queries (Q1 to Q10), in order.
+- (zoomride_eniola.sql)[setup script and all my queries (Q1 to Q10), in order]
 - README.md
